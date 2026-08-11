@@ -1,0 +1,2 @@
+# 1.-AI-Driven-Renewable-Energy-Source-Prediction-and-Recommendation-Using-Ensemble-Learning-
+Built an AI-driven renewable energy prediction system using Random Forest, XGBoost, and LSTM with NASA POWER climate data. Engineered solar, wind, and hydro potential features and an ensemble pipeline. Introduced RERI for reliability assessment. Achieved R² up to 0.9999 and recommended solar as the most reliable source for Bhubaneswar.
